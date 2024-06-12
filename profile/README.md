@@ -1,10 +1,27 @@
 ## 💡 국내외 여행 모임 통장 서비스\_하나로 모여
 
-### ✍️ 개요
+## 목차
+- [ 개요 ](#개요)
+- [ 기능소개 ](#기능소개)
+- [ 서비스소개 ](#서비스소개)
+- [ 참고사항 ](#참고사항)
+- [ 멤버소개 ](#멤버소개)
 
-하나은행은 모임통장과 트래블로그 등 다양하고 편리한 고객 지원 서비스를 지원합니다. 토스와 카카오는 간편 송금과 모임 통장 기능을 제공하지만, 국제 거래나 외환 기능은 제한적입니다. 이러한 배경을 바탕으로, 저희 팀은 하나은행의 하나원큐 모임통장 기능을 국내외 여행 모임에 특화하고 확장함으로써, 고객들이 보다 쉽고 편리하게 국내외 여행 경비를 관리하도록 하고자 합니다.
+- - -
+## 개요
+- 디지털 하나로 3기 - 금융서비스 고객응대시스템 구현 프로젝트
+- 팀명 : 하나로 헤쳐모여
 
-### 💬기능
+- - -
+
+
+## ✍️서비스소개
+
+하나은행은 모임통장과 트래블로그 등 다양하고 편리한 고객 지원 서비스를 지원합니다. 토스와 카카오는 간편 송금과 모임 통장 기능을 제공하지만, 국제 거래나 외환 기능은 제한적입니다.
+<br>
+이러한 배경을 바탕으로, 저희 팀은 하나은행의 하나원큐 모임통장 기능을 국내외 여행 모임에 특화하고 확장함으로써, 고객들이 보다 쉽고 편리하게 국내외 여행 경비를 관리하도록 하고자 합니다.
+
+## 💬기능소개
 
 1. 로그인, 로그아웃 (간편 로그인)
 2. 모임 통장 개설 및 관리 기능
@@ -41,7 +58,39 @@
    - https://www.koreaexim.go.kr/ir/HPHKIR020M01?apino=2&viewtype=C&searchselect=&searchword=
      
 
-### 🚨참고사항
+## 🚨참고사항
 
 - 하나원큐 사용자를 대상으로 합니다
 - 모임 통장을 이용하기 위해서는 하나원큐에 회원가입이 되어있어야 합니다.
+
+- - -
+
+## 멤버소개
+<table>
+<tr align="center">
+   <th>이신광</th>
+   <th>최지웅</th>
+   <th>문혜영</th>
+   <th>안나영</th>
+   <th>이채원</th>
+   <th>임유빈</th>
+</tr>
+<tr align ="center">  
+   <td><a href="https://github.com/ShinKwang2"><img src="https://avatars.githubusercontent.com/u/71647602?v=4" width="100"></a></td>
+   <td><a href="https://github.com/wldnd9904"><img src="https://avatars.githubusercontent.com/u/74809873?v=4" width="100"></a></td>
+   <td><a href="https://github.com/mummhy0811"><img src="https://avatars.githubusercontent.com/u/76941500?v=4" width="100"></a></td>
+   <td><a href="https://github.com/ny2060"><img src="https://avatars.githubusercontent.com/u/48551119?v=4" width="100"></a></td>
+   <td> <a href="https://github.com/lcw729"> <img src="https://avatars.githubusercontent.com/u/48678849?v=4" width="100"></a></td>
+  <td> <a href="https://github.com/yubin-im"><img src="https://avatars.githubusercontent.com/u/140530127?v=4" width="100"> </a></td>
+</tr>
+<tr align ="center">
+    <td>Front</td>
+    <td>Front</td>
+   <td>Back</td>
+    <td>Back</td>
+    <td>Back</td>
+    <td>Back</td>
+</tr>
+</table>
+</p>
+
