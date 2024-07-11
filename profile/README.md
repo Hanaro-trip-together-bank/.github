@@ -6,8 +6,10 @@
 
 ## 목차
 - [ 개요 ](#개요)
+- [ 기술스택 ](#기술스택)
 - [ 기능소개 ](#기능소개)
 - [ 서비스소개 ](#서비스소개)
+- [ 시연영상 ](#시연영상)
 - [ 참고사항 ](#참고사항)
 - [ 멤버소개 ](#멤버소개)
 
@@ -15,15 +17,25 @@
 ## 개요
 - 디지털 하나로 3기 - 금융서비스 고객응대시스템 구현 프로젝트
 - 팀명 : 하나로 헤쳐모여
+- 🎖️ 우수팀 선정 🎖️
 
-- - -
+<br>
 
+## 🚀기술스택
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=ts,react)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=githubactions,docker,nginx)](https://skillicons.dev)
 
-## ✍️서비스소개
+<br>
+
+---
+
+## ✍서비스소개
 
 하나은행은 모임통장과 트래블로그 등 다양하고 편리한 고객 지원 서비스를 지원합니다. 토스와 카카오는 간편 송금과 모임 통장 기능을 제공하지만, 국제 거래나 외환 기능은 제한적입니다.
 <br>
 이러한 배경을 바탕으로, 저희 팀은 하나은행의 하나원큐 모임통장 기능을 국내외 여행 모임에 특화하고 확장함으로써, 고객들이 보다 쉽고 편리하게 국내외 여행 경비를 관리하도록 하고자 합니다.
+
 
 ## 💬기능소개
 
@@ -58,9 +70,9 @@
      ⇒ 각자 원하는 환율에 대해 알림을 신청한다.
      
      ⇒ 10분에 한 번 환율 변경을 감지하고, 알림을 보낸다.
-     
-   - https://www.koreaexim.go.kr/ir/HPHKIR020M01?apino=2&viewtype=C&searchselect=&searchword=
-     
+
+## 📹시연영상
+[![하나로모여](https://github.com/Hanaro-trip-together-bank/.github/assets/76941500/9af36c23-546c-4f80-8866-febd1d2460f8)](https://drive.google.com/file/d/1cbx2IBtRSxWMGS58LNWauI95G0IMedQP/view?resourcekey)        
 
 ## 🚨참고사항
 
@@ -69,7 +81,7 @@
 
 - - -
 
-## 멤버소개
+## 👪멤버소개
 <table>
 <tr align="center">
    <th>이신광</th>
